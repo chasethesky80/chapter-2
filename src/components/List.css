@@ -1,14 +1,20 @@
-.profile-container ul {
-    list-style: none;
-    padding: 0;
-    text-align: left;
+.profile-container, .projects-container {
+    ul {
+        list-style: none;
+        padding: 0;
+        text-align: left;
+    }
 }
 
-.profile-container ul li {
-    display: flex;
-    justify-content: space-between;
+.profile-container, .projects-container {
+    ul li {
+        display: flex;
+        justify-content: space-between;
+    }
 }
 
-.profile-container ul li span {
-    font-weight: 600;
+.profile-container, .projects-container {
+    ul li span {
+        font-weight: 600;
+    }
 }

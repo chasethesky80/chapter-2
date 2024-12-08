@@ -1,4 +1,4 @@
-.profile-container {
+.profile-container, .projects-container {
     width: 50%;
     margin: 10px auto;
 }
@@ -7,6 +7,6 @@
     width: 150px;
 }
 
-.profile-content {
+.profile-content, .projects-content {
     width: 80%;
 }
