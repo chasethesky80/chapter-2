@@ -1,3 +1,5 @@
+import "./List.css"
+
 export default function List({ items }){
    return (
        <ul>
